@@ -19,13 +19,15 @@ Here are some ideas to get you started:
   <h3>It's great to have you here, let me tell you a little bit about myself </h2>
 </div>
 
-![the-midnight-gospel-enlightened](https://github.com/LuigiSS97/LuigiSS97/assets/73402138/0c945b4a-726b-490d-937e-cb9d4f83e2cc)
+<div>
+  <img align="right" alt="Git-Computador" style={{"margin-left": "18px"}} src="./assets/midnight.gif"/>
+</div>
 
 
-<p>I'm a 3 years experienced brazilian Frontend developer aspiring to know all parts of the development process of a product, currently learning backend development 🧔🏽 .
+<p align="left">I'm a 3 years experienced brazilian Frontend developer aspiring to know all parts of the development process of a product, currently learning backend development 🧔🏽 .
 🧑‍🤝‍🧑 People and social interactions are the things I mostly enjoy, so expect communication, presentation, knowledge transfer, collaboration and problem solving to be my best soft skills. I'm proudly part of <a href="https://github.com/he4rt">He4rt 💜</a> devs community and currently trying to be as interactive as I can, since social skills are the ones I'm mostly good at, I'm aiming to help educate and contribute with content and knowledge. <br>
 In addition to that, I have some projects/deliveries which are my 🏆, to know more about them, access my updated <a href="https://docs.google.com/document/d/12FnUtZRDL4SuFoWloi4e5T3OuY--CzlMPCYi7neOlqw/edit?usp=drive_link">CV</a>  
-</p>
+</p><br><br>
 
 - 🌱 I’m currently learning **Node Js, Express, Typeorm, GraphQl**
 
@@ -33,18 +35,15 @@ In addition to that, I have some projects/deliveries which are my 🏆, to know 
 
 - 💬 Ask me about **React, CSS in Js, Typescript, CMS, tests**
 
-- 📫 How to reach me **luigisouzasc@gmail.com**
-
 - ⚡ Fun fact **- I'm a urban dance dancer, specially hip hop and african dances, and I'm proudly part of a local studio called RJ studio.**
   
-![giphy](https://github.com/LuigiSS97/LuigiSS97/assets/73402138/f1913f13-3a94-4e28-939e-2029b2d82d77)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@luigiss97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@luigiss97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luigi-scipioni-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luigi-scipioni-frontend/" height="30" width="40" /></a>
+<a href="https://dev.to/luigiss97"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luigi-scipioni-frontend/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:luigisouzasc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,4 +56,3 @@ In addition to that, I have some projects/deliveries which are my 🏆, to know 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luigiss97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="luigiss97" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigiss97&label=Profile%20views&color=0e75b6&style=flat" alt="luigiss97" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigiss97&show_icons=true&locale=en" alt="luigiss97" /></p>
