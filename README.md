@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img align="right" alt="Git-Computador" style={{"margin-left": "18px"}} src="./assets/midnight.gif"/>
+  <img align="right" alt="Git-Computador" width="50%" src="./assets/midnight.gif"/>
 </div>
 
 
