@@ -60,7 +60,5 @@ In addition to that, I have some projects/deliveries which are my 🏆, to know 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luigiss97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="luigiss97" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luigiss97&label=Profile%20views&color=0e75b6&style=flat" alt="luigiss97" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigiss97&show_icons=true&locale=en" alt="luigiss97" /></p>
 
 
