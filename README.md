@@ -58,7 +58,6 @@ In addition to that, I have some projects/deliveries which are my 🏆, to know 
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luigiss97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="luigiss97" /></p>
 
 
 
