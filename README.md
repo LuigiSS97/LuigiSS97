@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="left">I'm a 3 years experienced brazilian Frontend developer aspiring to know all parts of the development process of a product, currently learning backend development 🧔🏽 .
 🧑‍🤝‍🧑 People and social interactions are the things I mostly enjoy, so expect communication, presentation, knowledge transfer, collaboration and problem solving to be my best soft skills. I'm proudly part of <a href="https://github.com/he4rt">He4rt 💜</a> devs community and currently trying to be as interactive as I can, since social skills are the ones I'm mostly good at, I'm aiming to help educate and contribute with content and knowledge. <br>
-In addition to that, I have some projects/deliveries which are my 🏆, to know more about them, access my updated <a href="https://docs.google.com/document/d/12FnUtZRDL4SuFoWloi4e5T3OuY--CzlMPCYi7neOlqw/edit?usp=drive_link">CV</a>  
+In addition to that, I have some projects/deliveries which are my 🏆, to know more about them, access my updated <a href="https://drive.google.com/file/d/1yLlWITQOskIaSwQMGA8IE52mmB4r9PpV/view?usp=share_link">CV</a>  
 </p><br><br>
 
 - 🌱 I’m currently learning **Node Js, Express, Typeorm, GraphQl**
